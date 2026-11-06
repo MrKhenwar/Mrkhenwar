@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 3st year college student at Bennett University<br>
+I am a 3rd year college student at Bennett University<br>
 
 
 ## 🌐 Socials:
