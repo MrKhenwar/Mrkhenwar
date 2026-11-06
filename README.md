@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 3st year college student at Bennett University<br>I have past experience in Python and it's various libraries <br>I've worked on Data Science and Excel Sheets.<br>Currently doing CP using Python <br>
+I am a 3st year college student at Bennett University<br>
 
 
 ## 🌐 Socials:
